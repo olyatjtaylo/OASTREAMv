@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: openai-chat
+Version: 0.0.3
+Summary: CLI for chatting through OpenAI's API.
+Author-email: Ryan Young <dev@ryayoung.com>
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Software Development :: Libraries
+Requires-Dist: click
+Requires-Dist: colorama
+Requires-Dist: openai
+Requires-Dist: prompt-toolkit
+Requires-Dist: requests
