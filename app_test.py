@@ -1,3 +1,4 @@
+import os
 import datetime
 from unittest.mock import patch
 from streamlit.testing.v1 import AppTest
@@ -43,14 +44,17 @@ def test_Chatbot(openai_create):
     assert not at.exception
 
 
-@patch("langchain.llms.OpenAI.__call__")
+@patch("langchain.llm.OpenAI.__call__")
 def test_Langchain_Quickstart(langchain_llm):
     at = AppTest.from_file("pages/3_Langchain_Quickstart.py").run()
     assert at.info[0].value == "Please add your OpenAI API key to continue."
 
     RESPONSE = "1. The best way to learn how to code is by practicing..."
     langchain_llm.return_value = RESPONSE
-    at.sidebar.text_input[0].set_value("sk-...")
-    at.button[0].set_value(True).run()
+    api_key = os.getenv('CHATBOT_API_KEY', 'default_api_key_if_none_found')
+    at.text_input(key="chatbot_api_key").set_value(api_key)
     print(at)
     assert at.info[0].value == RESPONSE
+
+    # at.sidebar.text_input[0].set_value("sk-...")
+    # at.button[0].set_value(True).run()

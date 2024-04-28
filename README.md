@@ -1,4 +1,4 @@
-# 🎈 Streamlit + LLM Examples App
+# GeoGPT
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/llm-examples?quickstart=1)
 
