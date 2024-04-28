@@ -55,6 +55,5 @@ def test_Langchain_Quickstart(langchain_llm):
     at.text_input(key="chatbot_api_key").set_value(api_key)
     print(at)
     assert at.info[0].value == RESPONSE
-
     # at.sidebar.text_input[0].set_value("sk-...")
     # at.button[0].set_value(True).run()
