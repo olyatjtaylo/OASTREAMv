@@ -1,0 +1,715 @@
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+--- a/.gitignore	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.gitignore	(date 1714354096940)
+@@ -1,0 +1,2 @@
++.venv/
++.vscode/
+\ No newline at end of file
+Index: .venv/lib/python3.10/site-packages/style-1.1.0.dist-info/WHEEL
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/WHEEL b/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/WHEEL
+--- a/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/WHEEL	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/WHEEL	(date 1714329289813)
+@@ -1,0 +1,6 @@
++Wheel-Version: 1.0
++Generator: bdist_wheel (0.29.0)
++Root-Is-Purelib: true
++Tag: py2-none-any
++Tag: py3-none-any
++
+Index: .venv/lib/python3.10/site-packages/update-0.0.1.dist-info/METADATA
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/METADATA b/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/METADATA
+--- a/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/METADATA	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/METADATA	(date 1714329289845)
+@@ -1,0 +1,45 @@
++Metadata-Version: 2.0
++Name: update
++Version: 0.0.1
++Summary: UNKNOWN
++Home-page: https://github.com/lmittmann/update
++Author: lmittmann
++Author-email: UNKNOWN
++License: MIT
++Description-Content-Type: UNKNOWN
++Keywords: update
++Platform: UNKNOWN
++Requires-Dist: style (==1.1.0)
++
++update
++======
++
++|Build Status| |PyPI version|
++
++**update** is a
++
++
++Install
++-------
++
++::
++
++    $ pip install update
++
++
++Usage
++-----
++
++.. code:: py
++
++    import update
++
++    update.check()
++
++
++.. |Build Status| image:: https://travis-ci.org/lmittmann/update.svg?branch=master
++    :target: https://travis-ci.org/lmittmann/update
++.. |PyPI version| image:: https://img.shields.io/pypi/v/update.svg
++    :target: https://pypi.org/project/update
++
++
+Index: .venv/lib/python3.10/site-packages/style-1.1.0.dist-info/RECORD
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/RECORD b/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/RECORD
+--- a/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/RECORD	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/RECORD	(date 1714329289829)
+@@ -1,0 +1,19 @@
++style-1.1.0.dist-info/DESCRIPTION.rst,sha256=x8pJVWXjdwJbsSpCe2t611nwYZip6MKTYdQQZF_GrW0,2538
++style-1.1.0.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
++style-1.1.0.dist-info/METADATA,sha256=zCbvKKINzGKORksBqxs0zepMsNGnTCVzgv3oBsjE9Zg,2793
++style-1.1.0.dist-info/RECORD,,
++style-1.1.0.dist-info/WHEEL,sha256=o2k-Qa-RMNIJmUdIc7KU6VWR_ErNRbWNlxDIpl7lm34,110
++style-1.1.0.dist-info/metadata.json,sha256=Gt5EeUNmPGbz_41gzH_we5dAgFYzpF7dv9XnLzwr_kw,451
++style-1.1.0.dist-info/top_level.txt,sha256=0nMvznycP8HNk_oPGaKBeMOXi3dssV9xWO3JA14e_cs,12
++style/__init__.py,sha256=asa1CAfCZTFCD0KhixpppIYGZ974WvkmyKxHl-d_hnM,418
++style/__pycache__/__init__.cpython-310.pyc,,
++style/__pycache__/ansi.cpython-310.pyc,,
++style/__pycache__/styled_string.cpython-310.pyc,,
++style/__pycache__/styled_string_builder.cpython-310.pyc,,
++style/ansi.py,sha256=beQ3aKea3Q4RLKsJv9SHSbNUSsAM-jBtOZ5HBYEH2dY,1089
++style/styled_string.py,sha256=zZAzEX8ghLyl_6pIfzDnYjHwduCgAAZZNkh-ZUuBqnQ,1038
++style/styled_string_builder.py,sha256=DmQSoh8NHdpyHVahznW0n8WHm007Em59hsuinXA7NxU,1389
++tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
++tests/__pycache__/__init__.cpython-310.pyc,,
++tests/__pycache__/test_style.cpython-310.pyc,,
++tests/test_style.py,sha256=JDzfyhUrPeaOihokRIXtrfMYMuF0uAeQyuSlbhw-4Uo,2170
+Index: .venv/lib/python3.10/site-packages/style-1.1.0.dist-info/top_level.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/top_level.txt b/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/top_level.txt
+--- a/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/top_level.txt	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/top_level.txt	(date 1714329289809)
+@@ -1,0 +1,2 @@
++style
++tests
+Index: .venv/lib/python3.10/site-packages/style/styled_string.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/lib/python3.10/site-packages/style/styled_string.py b/.venv/lib/python3.10/site-packages/style/styled_string.py
+--- a/.venv/lib/python3.10/site-packages/style/styled_string.py	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.venv/lib/python3.10/site-packages/style/styled_string.py	(date 1714329289809)
+@@ -1,0 +1,30 @@
++import style
++
++
++class _StyledString(str):
++
++    def __new__(cls, style_list, sep, *objects):
++        return super(_StyledString, cls).__new__(cls, sep.join([str(obj) for obj in objects]))
++
++    def __init__(self, style_list, sep, *objects):
++        self._style_start = ';'.join([str(s[0]) for s in style_list])
++        self._style_end = ';'.join([str(s[1]) for s in style_list])
++        self._sep = sep
++        self._objects = objects
++
++    def __add__(self, other):
++        return self.__str__() + str(other)
++
++    def __str__(self):
++        if style._StyledStringBuilder._enabled:
++            string = ''
++            for i, obj in enumerate(self._objects):
++                if i > 0:
++                    string += self._sep
++
++                if type(obj) is _StyledString:
++                    string += '%s\033[%sm' % (obj, self._style_start)
++                else:
++                    string += str(obj)
++            return '\033[%sm%s\033[%sm' % (self._style_start, string, self._style_end)
++        return super(_StyledString, self).__str__()
+Index: .venv/lib/python3.10/site-packages/style-1.1.0.dist-info/INSTALLER
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/INSTALLER b/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/INSTALLER
+--- a/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/INSTALLER	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/INSTALLER	(date 1714329289813)
+@@ -1,0 +1,1 @@
++pip
+Index: .venv/lib/python3.10/site-packages/tests/test_style.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/lib/python3.10/site-packages/tests/test_style.py b/.venv/lib/python3.10/site-packages/tests/test_style.py
+--- a/.venv/lib/python3.10/site-packages/tests/test_style.py	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.venv/lib/python3.10/site-packages/tests/test_style.py	(date 1714329289809)
+@@ -1,0 +1,62 @@
++import unittest
++import sys
++
++import style
++
++
++class StyleTestCase(unittest.TestCase):
++
++    def test_argument_on_root_style_builder(self):
++        # test if a call of the root StyleBuilder raises a TypeError
++        with self.assertRaises(TypeError):
++            style('test')
++
++    def test_enabled(self):
++        # test if enabled by default
++        self.assertTrue(style.enabled)
++
++    def test_single_string(self):
++        # test styling of single string
++        self.assertIn('test', style.red('test'))
++        self.assertIn('31', str(style.red('test')))
++
++    def test_multiple_strings(self):
++        # test styling of multiple strings
++        self.assertIn('test1 test2', style.red('test1', 'test2'))
++        self.assertIn('31', str(style.red('test1', 'test2')))
++
++    def test_non_string_arguments(self):
++        # test styling of multiple arguments that are not strings
++        self.assertIn('1 True 0.1', style.red(1, True, 0.1))
++        self.assertIn('31', str(style.red(1, True, 0.1)))
++
++    def test_seperator(self):
++        # test custom seperator
++        self.assertIn('test1, test2', style.red('test1', 'test2', sep=', '))
++
++    def test_non_string_seperator(self):
++        # test if a non string seperator raises a TypeError
++        with self.assertRaises(TypeError):
++            style.red('test1', 'test2', sep=0)
++
++    def test_style_chaining(self):
++        # test that chaining style attributes works
++        self.assertIn('31;47;1', str(style.red.on_white.bold('test')))
++        self.assertIn('47;31;1', str(style.on_white.red.bold('test')))
++        self.assertIn('47;1;31', str(style.on_white.bold.red('test')))
++
++    def test_len(self):
++        # test if the lenght is independet of the style
++        styled_string = style.red('test')
++
++        self.assertEqual(len(styled_string), len('test'))
++        self.assertTrue(len(str(styled_string)) > len(styled_string))
++
++    def test_enabling(self):
++        # test manually enabling and disabling
++        style.enabled = False
++        self.assertEqual('test', style.red('test'))
++
++        style.enabled = True
++        self.assertIn('test', str(style.red('test')))
++        self.assertIn('31', str(style.red('test')))
+Index: .venv/lib/python3.10/site-packages/update/check.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/lib/python3.10/site-packages/update/check.py b/.venv/lib/python3.10/site-packages/update/check.py
+--- a/.venv/lib/python3.10/site-packages/update/check.py	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.venv/lib/python3.10/site-packages/update/check.py	(date 1714329289841)
+@@ -1,0 +1,31 @@
++from __future__ import print_function
++
++import json
++import os
++import style
++import urllib
++
++from distutils.version import StrictVersion
++
++
++def check(package):
++    '''
++    '''
++    package_info = None
++    newest_version = StrictVersion(package_info['info']['version'])
++    current_version = StrictVersion(__version__)
++    if newest_version > current_version:
++        _print_update_instructions(package)
++
++
++def check_version(package):
++    '''
++    '''
++    filehandle = urllib.urlopen('https://pypi.python.org/pypi/%s/json' % package)
++
++
++def _print_update_instructions(package):
++    '''
++    '''
++    print(style.yellow('A new version of', style.bold(package), 'is available.\nRun',
++                       style.bold('pip install -U', package), 'to upgrade.'), end='\n'*2)
+Index: .venv/lib/python3.10/site-packages/style-1.1.0.dist-info/DESCRIPTION.rst
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/DESCRIPTION.rst b/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/DESCRIPTION.rst
+--- a/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/DESCRIPTION.rst	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/DESCRIPTION.rst	(date 1714329289809)
+@@ -1,0 +1,71 @@
++style
++=====
++
++|Build Status| |PyPI version|
++
++**style** is a simple terminal string styling library. Its API is a port of the popular
++`chalk <https://github.com/chalk/chalk>`__ module for javascript.
++
++
++Install
++-------
++
++::
++
++    $ pip install style
++
++
++Usage
++-----
++
++.. code:: py
++
++    import style
++
++    print(style.red('Hello', style.bold('world') + '!'))
++
++
++API
++---
++
++style.\ ``style*[.style](*objects, sep=' ')``
++~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
++
++Chain `styles <#styles>`__ and call the last one as a method with an argument. Order doesn't matter, and later styles
++take precedence in case of a conflict, e.g. ``style.red.yellow.green`` is equivalent to ``style.green``. Styles can
++be nested.
++
++Multiple arguments will be separated by ``sep``, a space by default.
++
++style.\ ``enabled``
++~~~~~~~~~~~~~~~~~~~
++
++Color support is automatically detected, but can also be changed manually.
++
++- set ``style.enabled`` to ``True`` or ``False``
++- use the command line parameter ``--color`` or ``--no-color``
++
++
++Styles
++------
++
+++---------------------+-------------------------------------+-------------------------------------------+
++| Modifiers           | Colors                              | Background colors                         |
+++=====================+===============+=====================+==================+========================+
++| - ``bold``          | - ``black``   | - ``light_black``   | - ``on_black``   | - ``on_light_black``   |
++| - ``dim``           | - ``red``     | - ``light_red``     | - ``on_red``     | - ``on_light_red``     |
++| - ``italic``        | - ``green``   | - ``light_green``   | - ``on_green``   | - ``on_light_green``   |
++| - ``underline``     | - ``yellow``  | - ``light_yellow``  | - ``on_yellow``  | - ``on_light_yellow``  |
++| - ``inverse``       | - ``blue``    | - ``light_blue``    | - ``on_blue``    | - ``on_light_blue``    |
++| - ``hidden``        | - ``magenta`` | - ``light_magenta`` | - ``on_magenta`` | - ``on_light_magenta`` |
++| - ``strikethrough`` | - ``cyan``    | - ``light_cyan``    | - ``on_cyan``    | - ``on_light_cyan``    |
++|                     | - ``white``   | - ``light_white``   | - ``on_white``   | - ``on_light_white``   |
+++---------------------+---------------+---------------------+------------------+------------------------+
++
++
++.. |Build Status| image:: https://travis-ci.org/lmittmann/style.svg?branch=master
++    :target: https://travis-ci.org/lmittmann/style
++.. |PyPI version| image:: https://img.shields.io/pypi/v/style.svg
++    :target: https://pypi.python.org/pypi/style
++
++
+Index: .venv/lib/python3.10/site-packages/style/ansi.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/lib/python3.10/site-packages/style/ansi.py b/.venv/lib/python3.10/site-packages/style/ansi.py
+--- a/.venv/lib/python3.10/site-packages/style/ansi.py	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.venv/lib/python3.10/site-packages/style/ansi.py	(date 1714329289809)
+@@ -1,0 +1,44 @@
++_styles = {
++    'default': (0, 0),
++    'bold': (1, 22),
++    'dim': (2, 22),
++    'italic': (3, 23),
++    'underline': (4, 24),
++    'inverse': (7, 27),
++    'hidden': (8, 28),
++    'strikethrough': (9, 29),
++
++    'black': (30, 39),
++    'red': (31, 39),
++    'green': (32, 39),
++    'yellow': (33, 39),
++    'blue': (34, 39),
++    'magenta': (35, 39),
++    'cyan': (36, 39),
++    'white': (37, 39),
++    'light_black': (90, 39),
++    'light_red': (91, 39),
++    'light_green': (92, 39),
++    'light_yellow': (93, 39),
++    'light_blue': (94, 39),
++    'light_magenta': (95, 39),
++    'light_cyan': (96, 39),
++    'light_white': (97, 39),
++
++    'on_black': (40, 49),
++    'on_red': (41, 49),
++    'on_green': (42, 49),
++    'on_yellow': (43, 49),
++    'on_blue': (44, 49),
++    'on_magenta': (45, 49),
++    'on_cyan': (46, 49),
++    'on_white': (47, 49),
++    'on_light_black': (100, 49),
++    'on_light_red': (101, 49),
++    'on_light_green': (102, 49),
++    'on_light_yellow': (103, 49),
++    'on_light_blue': (104, 49),
++    'on_light_magenta': (105, 49),
++    'on_light_cyan': (106, 49),
++    'on_light_white': (107, 49)
++}
+Index: .venv/lib/python3.10/site-packages/update-0.0.1.dist-info/top_level.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/top_level.txt b/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/top_level.txt
+--- a/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/top_level.txt	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/top_level.txt	(date 1714329289841)
+@@ -1,0 +1,1 @@
++update
+Index: .venv/lib/python3.10/site-packages/update-0.0.1.dist-info/DESCRIPTION.rst
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/DESCRIPTION.rst b/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/DESCRIPTION.rst
+--- a/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/DESCRIPTION.rst	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/DESCRIPTION.rst	(date 1714329289841)
+@@ -1,0 +1,32 @@
++update
++======
++
++|Build Status| |PyPI version|
++
++**update** is a
++
++
++Install
++-------
++
++::
++
++    $ pip install update
++
++
++Usage
++-----
++
++.. code:: py
++
++    import update
++
++    update.check()
++
++
++.. |Build Status| image:: https://travis-ci.org/lmittmann/update.svg?branch=master
++    :target: https://travis-ci.org/lmittmann/update
++.. |PyPI version| image:: https://img.shields.io/pypi/v/update.svg
++    :target: https://pypi.org/project/update
++
++
+Index: .venv/lib/python3.10/site-packages/style/styled_string_builder.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/lib/python3.10/site-packages/style/styled_string_builder.py b/.venv/lib/python3.10/site-packages/style/styled_string_builder.py
+--- a/.venv/lib/python3.10/site-packages/style/styled_string_builder.py	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.venv/lib/python3.10/site-packages/style/styled_string_builder.py	(date 1714329289809)
+@@ -1,0 +1,44 @@
++import types
++
++from style.ansi import _styles
++from style.styled_string import _StyledString
++
++
++_module_name = __name__.split('.')[0]
++
++
++class _StyledStringBuilder(types.ModuleType):
++    _enabled = True
++
++    @property
++    def enabled(self):
++        return _StyledStringBuilder._enabled
++
++    @enabled.setter
++    def enabled(self, value):
++        _StyledStringBuilder._enabled = value
++
++    def __init__(self, style_list, is_root=False):
++        super(_StyledStringBuilder, self).__init__(_module_name)
++        self._style_list = style_list
++        self._is_root = is_root
++
++    def __call__(self, *objects, **kwargs):
++        if self._is_root:
++            raise TypeError('%r object is not callable' % self.__class__.__bases__[0].__name__)
++
++        sep = kwargs.get('sep', ' ')
++        if type(sep) is not str:
++            raise TypeError('sep must be None or a string, not %r' % sep.__class__.__name__)
++
++        return _StyledString(self._style_list, sep, *objects)
++
++    def __getattr__(self, attr):
++        if attr in _styles:
++            if self._is_root:
++                new_style_list = self._style_list[:]
++                new_style_list.append(_styles[attr])
++                return _StyledStringBuilder(new_style_list)
++            self._style_list.append(_styles[attr])
++            return self
++        raise AttributeError('%r object has no attribute %r' % (self.__class__.__name__, attr))
+Index: .venv/lib/python3.10/site-packages/update-0.0.1.dist-info/RECORD
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/RECORD b/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/RECORD
+--- a/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/RECORD	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/RECORD	(date 1714329289857)
+@@ -1,0 +1,12 @@
++update-0.0.1.dist-info/DESCRIPTION.rst,sha256=qKsQo6InfUmiYhjT3YMI1PLJ9O-AKGvQSTfETxbW3Z8,428
++update-0.0.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
++update-0.0.1.dist-info/METADATA,sha256=jhtTCmxibM6nf1fkqqKskAR81IWQPeSImVYPqIWUeqA,696
++update-0.0.1.dist-info/RECORD,,
++update-0.0.1.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
++update-0.0.1.dist-info/WHEEL,sha256=kdsN-5OJAZIiHN-iO4Rhl82KyS0bDWf4uBwMbkNafr8,110
++update-0.0.1.dist-info/metadata.json,sha256=ip_T84oo-10MY0FbjIc5u2VMhWWGyWhhMLhONyoY2Lw,482
++update-0.0.1.dist-info/top_level.txt,sha256=5xj-jWMbrdOc9m7gSn-UcsAQ9FMNvWSbLWSsrOUIO5w,7
++update/__init__.py,sha256=FuW4v3_bhjJc5heBHb-VCUst0xLQK00nFyw9yOHwwhU,55
++update/__pycache__/__init__.cpython-310.pyc,,
++update/__pycache__/check.cpython-310.pyc,,
++update/check.py,sha256=nh-m-UCF2IKQlLVr4dpCEsswlbOCQ2j3s1EVz_-Q4m0,760
+Index: .venv/lib/python3.10/site-packages/update-0.0.1.dist-info/WHEEL
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/WHEEL b/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/WHEEL
+--- a/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/WHEEL	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/WHEEL	(date 1714329289841)
+@@ -1,0 +1,6 @@
++Wheel-Version: 1.0
++Generator: bdist_wheel (0.30.0)
++Root-Is-Purelib: true
++Tag: py2-none-any
++Tag: py3-none-any
++
+Index: .venv/lib/python3.10/site-packages/update-0.0.1.dist-info/INSTALLER
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/INSTALLER b/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/INSTALLER
+--- a/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/INSTALLER	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/INSTALLER	(date 1714329289845)
+@@ -1,0 +1,1 @@
++pip
+Index: .venv/lib/python3.10/site-packages/style-1.1.0.dist-info/METADATA
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/METADATA b/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/METADATA
+--- a/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/METADATA	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/METADATA	(date 1714329289813)
+@@ -1,0 +1,82 @@
++Metadata-Version: 2.0
++Name: style
++Version: 1.1.0
++Summary: 🌈 Terminal string styling
++Home-page: https://github.com/lmittmann/style
++Author: lmittmann
++Author-email: UNKNOWN
++License: MIT
++Keywords: style,color,ansi,terminal styling,chalk
++Platform: UNKNOWN
++
++style
++=====
++
++|Build Status| |PyPI version|
++
++**style** is a simple terminal string styling library. Its API is a port of the popular
++`chalk <https://github.com/chalk/chalk>`__ module for javascript.
++
++
++Install
++-------
++
++::
++
++    $ pip install style
++
++
++Usage
++-----
++
++.. code:: py
++
++    import style
++
++    print(style.red('Hello', style.bold('world') + '!'))
++
++
++API
++---
++
++style.\ ``style*[.style](*objects, sep=' ')``
++~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
++
++Chain `styles <#styles>`__ and call the last one as a method with an argument. Order doesn't matter, and later styles
++take precedence in case of a conflict, e.g. ``style.red.yellow.green`` is equivalent to ``style.green``. Styles can
++be nested.
++
++Multiple arguments will be separated by ``sep``, a space by default.
++
++style.\ ``enabled``
++~~~~~~~~~~~~~~~~~~~
++
++Color support is automatically detected, but can also be changed manually.
++
++- set ``style.enabled`` to ``True`` or ``False``
++- use the command line parameter ``--color`` or ``--no-color``
++
++
++Styles
++------
++
+++---------------------+-------------------------------------+-------------------------------------------+
++| Modifiers           | Colors                              | Background colors                         |
+++=====================+===============+=====================+==================+========================+
++| - ``bold``          | - ``black``   | - ``light_black``   | - ``on_black``   | - ``on_light_black``   |
++| - ``dim``           | - ``red``     | - ``light_red``     | - ``on_red``     | - ``on_light_red``     |
++| - ``italic``        | - ``green``   | - ``light_green``   | - ``on_green``   | - ``on_light_green``   |
++| - ``underline``     | - ``yellow``  | - ``light_yellow``  | - ``on_yellow``  | - ``on_light_yellow``  |
++| - ``inverse``       | - ``blue``    | - ``light_blue``    | - ``on_blue``    | - ``on_light_blue``    |
++| - ``hidden``        | - ``magenta`` | - ``light_magenta`` | - ``on_magenta`` | - ``on_light_magenta`` |
++| - ``strikethrough`` | - ``cyan``    | - ``light_cyan``    | - ``on_cyan``    | - ``on_light_cyan``    |
++|                     | - ``white``   | - ``light_white``   | - ``on_white``   | - ``on_light_white``   |
+++---------------------+---------------+---------------------+------------------+------------------------+
++
++
++.. |Build Status| image:: https://travis-ci.org/lmittmann/style.svg?branch=master
++    :target: https://travis-ci.org/lmittmann/style
++.. |PyPI version| image:: https://img.shields.io/pypi/v/style.svg
++    :target: https://pypi.python.org/pypi/style
++
++
+Index: .venv/lib/python3.10/site-packages/style/__init__.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/lib/python3.10/site-packages/style/__init__.py b/.venv/lib/python3.10/site-packages/style/__init__.py
+--- a/.venv/lib/python3.10/site-packages/style/__init__.py	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.venv/lib/python3.10/site-packages/style/__init__.py	(date 1714329289809)
+@@ -1,0 +1,17 @@
++import sys
++
++from style.styled_string_builder import _StyledStringBuilder
++
++
++__version__ = '1.1.0'
++
++_enabled = sys.stdout.isatty()
++if '--color' in sys.argv:
++    _enabled = True
++elif '--no-color' in sys.argv:
++    _enabled = False
++
++styled_string_builder = _StyledStringBuilder([], True)
++styled_string_builder.enabled = _enabled
++styled_string_builder.__version__ = __version__
++sys.modules[__name__] = styled_string_builder
+Index: .venv/lib/python3.10/site-packages/update/__init__.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/lib/python3.10/site-packages/update/__init__.py b/.venv/lib/python3.10/site-packages/update/__init__.py
+--- a/.venv/lib/python3.10/site-packages/update/__init__.py	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.venv/lib/python3.10/site-packages/update/__init__.py	(date 1714329289841)
+@@ -1,0 +1,4 @@
++from update.check import check
++
++
++__version__ = '0.0.1'
+Index: .venv/lib/python3.10/site-packages/style-1.1.0.dist-info/metadata.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/metadata.json b/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/metadata.json
+--- a/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/metadata.json	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/metadata.json	(date 1714329289809)
+@@ -1,0 +1,1 @@
++{"extensions": {"python.details": {"contacts": [{"name": "lmittmann", "role": "author"}], "document_names": {"description": "DESCRIPTION.rst"}, "project_urls": {"Home": "https://github.com/lmittmann/style"}}}, "generator": "bdist_wheel (0.29.0)", "keywords": ["style", "color", "ansi", "terminal", "styling", "chalk"], "license": "MIT", "metadata_version": "2.0", "name": "style", "summary": "\ud83c\udf08 Terminal string styling", "version": "1.1.0"}
+\ No newline at end of file
+Index: .venv/lib/python3.10/site-packages/update-0.0.1.dist-info/metadata.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/metadata.json b/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/metadata.json
+--- a/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/metadata.json	(revision 4de31ad75f13509a79d0eb478d8161fb203eb418)
++++ b/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/metadata.json	(date 1714329289841)
+@@ -1,0 +1,1 @@
++{"description_content_type": "UNKNOWN", "extensions": {"python.details": {"contacts": [{"name": "lmittmann", "role": "author"}], "document_names": {"description": "DESCRIPTION.rst"}, "project_urls": {"Home": "https://github.com/lmittmann/update"}}}, "extras": [], "generator": "bdist_wheel (0.30.0)", "keywords": ["update"], "license": "MIT", "metadata_version": "2.0", "name": "update", "run_requires": [{"requires": ["style (==1.1.0)"]}], "summary": "UNKNOWN", "version": "0.0.1"}
+\ No newline at end of file

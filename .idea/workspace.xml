@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fe9c921-8de5-42c0-adc7-6110b1d6f68d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/DESCRIPTION.rst" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/METADATA" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/METADATA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/WHEEL" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/WHEEL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style-1.1.0.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style/ansi.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style/ansi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style/styled_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style/styled_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style/styled_string_builder.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/style/styled_string_builder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/tests/test_style.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/tests/test_style.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/DESCRIPTION.rst" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/METADATA" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/METADATA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/WHEEL" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/WHEEL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/update-0.0.1.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/update/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/update/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/update/check.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/update/check.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.venv/lib/python3.10/site-packages/streamlit/runtime/state/session_state_proxy.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2fjfBgKN7KdiemxBEw8CYkGoJ4p" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python tests.pytest in app_test.py.executor": "Run",
+    "Python._jb_pytest_runner.executor": "Run",
+    "Python.app.executor": "Coverage",
+    "Python.session_state_proxy.executor": "Run",
+    "RunOnceActivity.GIT_CREDENTIAL_SETUP": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="OASTREAMv" is-module-sdk="true">
+        <envs>
+          <env key="CHATBOT_API_KEY" value="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" />
+          <env key="api_key" value="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" />
+          <env key="key" value="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" />
+          <env key="openai_api_key" value="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" />
+        </envs>
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="OASTREAMv" />
+        <option name="myEnvs">
+          <map>
+            <entry key="CHATBOT_API_KEY" value="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" />
+            <entry key="api_key" value="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" />
+            <entry key="key" value="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" />
+            <entry key="openai_api_key" value="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" />
+          </map>
+        </option>
+      </console-settings>
+    </option>
+  </component>
+  <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
+    <layout>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Commit_Guest" show_stripe_button="false" />
+      <window_info id="GitHub Codespaces" show_stripe_button="false" side_tool="true" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28588986" />
+      <window_info id="Commit" order="1" sideWeight="0.50087416" weight="0.28588986" />
+      <window_info id="Structure" order="2" sideWeight="0.49912587" side_tool="true" weight="0.111088544" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3305" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info active="true" anchor="bottom" id="Problems View" order="2" visible="true" weight="0.32999998" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.53210616" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.3305" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.32999998" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3305" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.5322222" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="SciView" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+    </layout>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fe9c921-8de5-42c0-adc7-6110b1d6f68d" name="Changes" comment="" />
+      <created>1714319276618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714319276618</updated>
+      <workItem from="1714319280996" duration="3398000" />
+      <workItem from="1714323485661" duration="3754000" />
+      <workItem from="1714327682108" duration="1906000" />
+      <workItem from="1714339586381" duration="2107000" />
+      <workItem from="1714356648899" duration="614000" />
+    </task>
+    <task id="LOCAL-00001" summary="keys">
+      <option name="closed" value="true" />
+      <created>1714328359556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714328359556</updated>
+    </task>
+    <task id="LOCAL-00002" summary="keys">
+      <option name="closed" value="true" />
+      <created>1714328383548</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714328383548</updated>
+    </task>
+    <task id="LOCAL-00003" summary="keys 2">
+      <option name="closed" value="true" />
+      <created>1714329322009</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714329322009</updated>
+    </task>
+    <task id="LOCAL-00004" summary="keys 2">
+      <option name="closed" value="true" />
+      <created>1714356734828</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714356734828</updated>
+    </task>
+    <task id="LOCAL-00005" summary="keys 2">
+      <option name="closed" value="true" />
+      <created>1714356755657</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714356755657</updated>
+    </task>
+    <task id="LOCAL-00006" summary="keys 2">
+      <option name="closed" value="true" />
+      <created>1714356773604</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714356773604</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="keys" />
+    <MESSAGE value="keys 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="keys 2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OASTREAMv$session_state_proxy.coverage" NAME="session_state_proxy Coverage Results" MODIFIED="1714327464996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/lib/python3.10/site-packages/streamlit/runtime/state" />
+    <SUITE FILE_PATH="coverage/OASTREAMv$app.coverage" NAME="app Coverage Results" MODIFIED="1714329341212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OASTREAMv$_jb_pytest_runner.coverage" NAME="_jb_pytest_runner Coverage Results" MODIFIED="1714327945845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/plugins/python/helpers/pycharm" />
+    <SUITE FILE_PATH="coverage/OASTREAMv$pytest_in_app_test_py.coverage" NAME="pytest in app_test.py Coverage Results" MODIFIED="1714328395594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
