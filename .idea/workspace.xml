@@ -52,7 +52,7 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2fjfBgKN7KdiemxBEw8CYkGoJ4p" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -117,7 +117,7 @@
       <window_info id="Pull Requests" show_stripe_button="false" />
       <window_info id="Learn" show_stripe_button="false" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28588986" />
-      <window_info id="Commit" order="1" sideWeight="0.50087416" weight="0.28588986" />
+      <window_info id="Commit" order="1" sideWeight="0.50114286" weight="0.28588986" />
       <window_info id="Structure" order="2" sideWeight="0.49912587" side_tool="true" weight="0.28588986" />
       <window_info active="true" id="GitHub Codespaces" order="2" side_tool="true" visible="true" weight="0.28588986" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -125,9 +125,9 @@
       <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
       <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
       <window_info anchor="bottom" id="Find" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32999998" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.32999998" />
       <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info active="true" anchor="bottom" id="Problems View" order="2" visible="true" weight="0.32999998" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32999998" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.53210616" />
       <window_info anchor="bottom" id="Services" order="4" weight="0.3305" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
@@ -165,7 +165,7 @@
       <workItem from="1714323485661" duration="3754000" />
       <workItem from="1714327682108" duration="1906000" />
       <workItem from="1714339586381" duration="2107000" />
-      <workItem from="1714356648899" duration="2619000" />
+      <workItem from="1714356648899" duration="2923000" />
     </task>
     <task id="LOCAL-00001" summary="keys">
       <option name="closed" value="true" />
@@ -215,7 +215,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714356773604</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="keys 2">
+      <option name="closed" value="true" />
+      <created>1714359450705</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714359450705</updated>
+    </task>
+    <task id="LOCAL-00008" summary="keys 2">
+      <option name="closed" value="true" />
+      <created>1714359464606</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714359464606</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,7 +252,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="keys" />
     <MESSAGE value="keys 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="keys 2" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
