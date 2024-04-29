@@ -40,10 +40,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../.codespaces/.persistedshare/creation.log" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/.venv/lib/python3.10/site-packages/streamlit/runtime/state/session_state_proxy.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -111,18 +114,18 @@
       <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
       <window_info id="Merge Requests" show_stripe_button="false" />
       <window_info id="Commit_Guest" show_stripe_button="false" />
-      <window_info id="GitHub Codespaces" show_stripe_button="false" side_tool="true" />
       <window_info id="Pull Requests" show_stripe_button="false" />
       <window_info id="Learn" show_stripe_button="false" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28588986" />
       <window_info id="Commit" order="1" sideWeight="0.50087416" weight="0.28588986" />
-      <window_info id="Structure" order="2" sideWeight="0.49912587" side_tool="true" weight="0.111088544" />
+      <window_info id="Structure" order="2" sideWeight="0.49912587" side_tool="true" weight="0.28588986" />
+      <window_info active="true" id="GitHub Codespaces" order="2" side_tool="true" visible="true" weight="0.28588986" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
       <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
       <window_info anchor="bottom" id="Find" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3305" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32999998" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info active="true" anchor="bottom" id="Problems View" order="2" visible="true" weight="0.32999998" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.53210616" />
@@ -135,11 +138,11 @@
       <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
       <window_info anchor="right" id="SciView" show_stripe_button="false" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
-      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
-      <window_info anchor="right" id="Database" order="2" weight="0.25" />
-      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <window_info anchor="right" id="Database" order="1" weight="0.029252704" />
+      <window_info anchor="right" id="AIAssistant" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="4" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="6" weight="0.1" />
     </layout>
   </component>
   <component name="SharedIndexes">
@@ -162,7 +165,7 @@
       <workItem from="1714323485661" duration="3754000" />
       <workItem from="1714327682108" duration="1906000" />
       <workItem from="1714339586381" duration="2107000" />
-      <workItem from="1714356648899" duration="614000" />
+      <workItem from="1714356648899" duration="2619000" />
     </task>
     <task id="LOCAL-00001" summary="keys">
       <option name="closed" value="true" />
