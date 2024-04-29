@@ -1,2 +1,4 @@
+.venv/
+.vscode/
 [flake8]
 exclude = .venv
