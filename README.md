@@ -1,4 +1,20 @@
-# GeoGPT
+# MemoryLangGPT
+```
+A unique collection of characters recreated as chat models including:
+
+"Sober" Clippy - former hardcore file addict & chronic data baita
+
+J - spatial agent capable with geolocation actions, image recognitions, & distance conversion
+
+Bob's Multiverse:
+" " Ross - context shifting model capable of text <-> image, 
+
+" " Marley - audio generation & interpretation
+
+Sponge " "  - vector collegtor &compressor
+
+" " the Builder - Master of epistemological studies and human triggered schizophrenic - capable of switching between build mode & foreman mode.
+```
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/llm-examples?quickstart=1)
 
