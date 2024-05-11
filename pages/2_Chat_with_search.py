@@ -1,5 +1,6 @@
 import streamlit as st
-
+import streamlit as st
+import leafmap.foliumap as leafmap
 from langchain.agents import initialize_agent, AgentType
 from langchain.callbacks import StreamlitCallbackHandler
 from langchain.chat_models import ChatOpenAI
@@ -19,8 +20,7 @@ st.title("🔎 LangChain - Chat with search")
 In this example, we're using `StreamlitCallbackHandler` to display the thoughts and actions of an agent in an interactive Streamlit app.
 Try more LangChain 🤝 Streamlit Agent examples at [github.com/langchain-ai/streamlit-agent](https://github.com/langchain-ai/streamlit-agent).
 """
-import streamlit as st
-import leafmap.foliumap as leafmap
+
 
 st.set_page_config(layout="wide")
 
